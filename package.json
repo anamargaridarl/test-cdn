@@ -1,0 +1,20 @@
+{
+  "name": "test-cdn",
+  "version": "1.0.0",
+  "description": "test-cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamargaridarl/test-cdn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamargaridarl/test-cdn/issues"
+  },
+  "homepage": "https://github.com/anamargaridarl/test-cdn#readme"
+}
